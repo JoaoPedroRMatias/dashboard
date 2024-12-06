@@ -42,7 +42,7 @@ navLinks.forEach(link => {
                     const projects = data.projects;
                     let projectList = '<ul>';
                     projects.forEach(project => {
-                        projectList += `<li><a href="${project.link}" target="_blank">${project.title}</a>: ${project.description}</li>`;
+                        projectList += `<li><a href="${project.link}" target="_blank">${project.title}</a><br>${project.description}</li>`;
                     });
                     projectList += '</ul>';
                     infoText.innerHTML = projectList;

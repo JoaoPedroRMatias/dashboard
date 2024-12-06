@@ -1,19 +1,14 @@
 {
     "projects": [
         {
-            "title": "Projeto 1",
-            "description": "Este é o primeiro projeto de exemplo. Nele, mostramos como criar uma página dinâmica com JavaScript.",
-            "link": "https://github.com/JoaoPedroRMatias/projeto1"
+            "title": "DNA Capital",
+            "description": "Project developed using NuxtJS, integrated with WordPress.",
+            "link": "https://dnacapital.com/"
         },
         {
-            "title": "Projeto 2",
-            "description": "Este projeto é sobre a construção de uma aplicação de gerenciamento de tarefas usando React e Node.js.",
-            "link": "https://github.com/JoaoPedroRMatias/projeto2"
-        },
-        {
-            "title": "Projeto 3",
-            "description": "Neste projeto, desenvolvemos uma aplicação de chat em tempo real utilizando WebSockets.",
-            "link": "https://github.com/JoaoPedroRMatias/projeto3"
+            "title": "IA Dr Licita",
+            "description": "System developed to integrate OpenAI with legal and bidding processes.",
+            "link": "https://app.drlicita.com/"
         }
     ],
     "contacts": [
