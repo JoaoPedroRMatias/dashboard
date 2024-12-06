@@ -1,0 +1,33 @@
+{
+    "projects": [
+        {
+            "title": "Projeto 1",
+            "description": "Este é o primeiro projeto de exemplo. Nele, mostramos como criar uma página dinâmica com JavaScript.",
+            "link": "https://github.com/JoaoPedroRMatias/projeto1"
+        },
+        {
+            "title": "Projeto 2",
+            "description": "Este projeto é sobre a construção de uma aplicação de gerenciamento de tarefas usando React e Node.js.",
+            "link": "https://github.com/JoaoPedroRMatias/projeto2"
+        },
+        {
+            "title": "Projeto 3",
+            "description": "Neste projeto, desenvolvemos uma aplicação de chat em tempo real utilizando WebSockets.",
+            "link": "https://github.com/JoaoPedroRMatias/projeto3"
+        }
+    ],
+    "contacts": [
+        {
+            "title": "GitHub",
+            "link": "https://github.com/JoaoPedroRMatias"
+        },
+        {
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/jo%C3%A3o-pedro-r-matias-41650a1aa/2"
+        },
+        {
+            "title": "E-mail: joaopedrord2001@gmail.com",
+            "link": "mailto:joaopedrord2001@gmail.com"
+        }
+    ]
+}

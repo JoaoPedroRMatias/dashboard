@@ -91,3 +91,26 @@ nav ul li a.selected {
     color: #ffffff;
     font-weight: bold;
 }
+
+.info-text {
+    position: absolute;
+    top: 90%;
+    right: 5%;
+    transform: translateY(-50%);
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
+    text-align: right;
+}
+
+.info-text a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1rem;
+    font-weight: lighter;
+    
+}
+
+.info-text a:hover {
+    text-decoration: underline; 
+}
